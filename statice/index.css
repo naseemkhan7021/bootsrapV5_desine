@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Baloo Bhai 2', cursive; */
+}
+
+
+
+/* header navbar  */
+
+/* header.navs {
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+} */
+
+
+/* header home style  */
+
+.main-home .slide-img{
+    width: 100%;
+    height: 50rem;
+}
+
+
+/* this is about html css  */
+
+
+.abou-mt {
+    margin-top: 6rem;
+}
+
+.featurette-divider{
+    margin: 4rem;
+}
+
+/* blog decine  */
+
+.aboutS .blog-at:hover{
+    transform: translateY(-10px);
+    transition: .3s all ease-in-out;
+}
+
+.aboutS .blog-at{
+    transition: .3s all ease-in-out;
+}
